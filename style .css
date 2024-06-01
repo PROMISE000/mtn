@@ -1,0 +1,26 @@
+body {
+    margin: auto;
+
+    font-family: Arial, sans-serif;
+}
+
+.navb{ 
+    background-color: yellow;
+
+} 
+.context{
+    
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+   
+}
+
+
+.context a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
